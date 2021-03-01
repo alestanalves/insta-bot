@@ -1,2 +1,2 @@
 # insta-bot
-Instagram Bot
+Instagram Bot for bluejaymugs
